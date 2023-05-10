@@ -20,9 +20,8 @@
 </p>
 
 
-- 🔭 I’m currently working on Data Science
-- 🌱 Including Data Analysis,M Machine Learning and Deep Learning
-- ⚡ AI Enthusias
+- 🔭 I’m currently working on Data Science. Including Data Analysis, Machine Learning, NLP and Deep Learning
+- 🌱 I'm learning on advance AI 
 
 <div align="center"> </div>
 
