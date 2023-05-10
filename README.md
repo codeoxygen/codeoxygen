@@ -4,7 +4,7 @@
   <img width="1200" src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/lcIresh_baner.png" />
 </p>  
 
-<h2 align="center">Hi Fellow 👋, I'm Lahiru!</h2>
+<h2 align="center">Hi Fellow 👋, I'm codeoxygen!</h2>
 
 <p>
     <a href="https://twitter.com/LahiruJayakodi3"> 
@@ -35,7 +35,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lahiruchalana&theme=dark&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=codeoxygen&theme=dark&layout=compact)
 
 ## What Have I Done?
 
