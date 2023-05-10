@@ -7,7 +7,7 @@
 <h2 align="center">Hi Fellow 👋, I'm Lahiru!</h2>
 
 <p>
-    <a href="https://twitter.com/ChalanaLahiru"> 
+    <a href="https://twitter.com/LahiruJayakodi3"> 
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
     </a> 
     <a href="https://www.linkedin.com/in/lahiru-jayakodi-b912b0217">
@@ -20,9 +20,9 @@
 </p>
 
 
-- 🔭 I’m currently working on Full-Stack Developments using Spring Boot and React.JS 
-- 🌱 Also need to be a mastere in Spring Boot
-- ⚡ Doing Database Designing and Architecturing now
+- 🔭 I’m currently working on Data Science
+- 🌱 Including Data Analysis,M Machine Learning and Deep Learning
+- ⚡ AI Enthusiastic
 
 <div align="center"> </div>
 
