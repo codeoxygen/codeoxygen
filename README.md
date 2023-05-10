@@ -6,10 +6,23 @@
 
 <h2 align="center">Hi Fellow 👋, I'm Lahiru!</h2>
 
-<p><a href="https://www.twitter.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+<p>
+    <a href="https://www.twitter.com/mokkapps"> 
+        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+    </a> 
+    <a href="https://www.linkedin.com/in/mokkapps">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+    </a> 
+    <a href="https://www.facebook.com/mokkapps/">
+        <img src="https://img.shields.io/badge/facebook-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+    </a>
+    <a href="https://www.facebook.com/mokkapps/">
+        <img src="https://img.shields.io/badge/facebook-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+    </a>  
+</p>
 
 
-<a href="https://www.facebook.com/lahiru.chalana.1">
+<!-- <a href="https://www.facebook.com/lahiru.chalana.1">
     <img src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/icons8-facebook-48.png"/>
 </a>
 
@@ -23,7 +36,7 @@
 
 <a href="https://stackoverflow.com/users/14357147/lahiru-chalana">
     <img src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/icons8-stack-overflow,-web-portal-for-professional-and-enthusiast-programmers.-48-modified.png"/>
-</a>
+</a> -->
 
 - 🔭 I’m currently working on Full-Stack Developments using Spring Boot and React.JS 
 - 🌱 Also need to be a mastere in Spring Boot
@@ -77,6 +90,10 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="lahiru-chalana-622749155" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/lahiru-chalana-622749155?trk=profile-badge">Lahiru Chalana</a></div>
+
+<a href="https://www.buymeacoffee.com/write_here_the_name" target="_blank" rel="noreferrer nofollow">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+</a>
               
 
 <!--
