@@ -17,7 +17,7 @@
         <img src="https://img.shields.io/badge/stackoverflow-%23E4405F.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
     </a>
     <a href="https://www.facebook.com/lahiru.chalana.1">
-        <img src="https://img.shields.io/badge/facebook-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25>
+        <img src="https://img.shields.io/badge/facebook-%23E9258F.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25>
     </a>  
 </p>
 
