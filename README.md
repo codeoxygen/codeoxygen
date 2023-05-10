@@ -7,36 +7,20 @@
 <h2 align="center">Hi Fellow 👋, I'm Lahiru!</h2>
 
 <p>
-    <a href="https://www.twitter.com/mokkapps"> 
+    <a href="https://twitter.com/ChalanaLahiru"> 
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
     </a> 
-    <a href="https://www.linkedin.com/in/mokkapps">
+    <a href="https://www.linkedin.com/in/lahiru-chalana-622749155/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
     </a> 
-    <a href="https://www.facebook.com/mokkapps/">
-        <img src="https://img.shields.io/badge/facebook-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+    <a href="https://stackoverflow.com/users/14357147/lahiru-chalana">
+        <img src="https://img.shields.io/badge/stackoverflow-%23E4405F.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
     </a>
-    <a href="https://www.facebook.com/mokkapps/">
-        <img src="https://img.shields.io/badge/facebook-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+    <a href="https://www.facebook.com/lahiru.chalana.1">
+        <img src="https://img.shields.io/badge/facebook-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25>
     </a>  
 </p>
 
-
-<!-- <a href="https://www.facebook.com/lahiru.chalana.1">
-    <img src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/icons8-facebook-48.png"/>
-</a>
-
-<a href="https://www.linkedin.com/in/lahiru-chalana-622749155/">
-    <img src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/icons8-linkedin-circled-48.png"/>
-</a>
-
-<a href="https://twitter.com/ChalanaLahiru">
-    <img src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/icons8-twitter-48.png"/>
-</a>
-
-<a href="https://stackoverflow.com/users/14357147/lahiru-chalana">
-    <img src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/icons8-stack-overflow,-web-portal-for-professional-and-enthusiast-programmers.-48-modified.png"/>
-</a> -->
 
 - 🔭 I’m currently working on Full-Stack Developments using Spring Boot and React.JS 
 - 🌱 Also need to be a mastere in Spring Boot
