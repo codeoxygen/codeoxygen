@@ -6,6 +6,9 @@
 
 <h2 align="center">Hi Fellow 👋, I'm Lahiru!</h2>
 
+<p><a href="https://www.twitter.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+
+
 <a href="https://www.facebook.com/lahiru.chalana.1">
     <img src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/icons8-facebook-48.png"/>
 </a>
@@ -30,11 +33,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lahiruchalana&theme=aura&show_icons=true&count_private=true) 
 
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lahiruchalana&theme=dark&layout=compact)
-
-....
-
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -47,6 +45,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lahiruchalana&theme=dark&layout=compact)
 
 ## What Have I Done?
 
@@ -73,19 +73,6 @@
 10. So on...
 
 .......
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   5 hrs 28 mins   ████████████░░░░░░░░░░░░░   48.61 %
-JSON         3 hrs 54 mins   ████████▓░░░░░░░░░░░░░░░░   34.75 %
-JavaScript   1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
-HTML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-```
-
-<!--END_SECTION:waka-->
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
