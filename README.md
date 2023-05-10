@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Guys+Let's+Enjoy+Coding.)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="356" src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/lcIresh.png" />
+  <img width="356" src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/lciresh_banner.png" />
 </p>  
 
 <h2 align="center">Hi Fellow 👋, I'm Lahiru!</h2>
@@ -23,12 +23,13 @@
 </a>
 
 - 🔭 I’m currently working on Full-Stack Developments using Spring Boot and React.JS 
-- 🌱 I’m currently learning Spring Boot to be mastered
+- 🌱 Also need to be a mastere in Spring Boot
+- ⚡ Doing Database Designing and Architecturing now
 
 <div align="center"> </div>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lahiruchalana&theme=aura&show_icons=true&count_private=true) 
-
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lahiruchalana&theme=dark&layout=compact)
 
 ## What Have I Done?
 
@@ -58,9 +59,6 @@
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="lahiru-chalana-622749155" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/lahiru-chalana-622749155?trk=profile-badge">Lahiru Chalana</a></div>
               
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lahiruchalana&theme=dark&layout=compact)
-
 
 <!--
 **lahiruchalana/lahiruchalana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
