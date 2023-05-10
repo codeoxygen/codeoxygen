@@ -10,15 +10,13 @@
     <a href="https://twitter.com/ChalanaLahiru"> 
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
     </a> 
-    <a href="https://www.linkedin.com/in/lahiru-chalana-622749155/">
+    <a href="https://www.linkedin.com/in/lahiru-jayakodi-b912b0217">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
     </a> 
-    <a href="https://stackoverflow.com/users/14357147/lahiru-chalana">
+    <a href="https://stackoverflow.com/users/13915199/lahiru-prabhath">
         <img src="https://img.shields.io/badge/stackoverflow-%23E4405F.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
     </a>
-    <a href="https://www.facebook.com/lahiru.chalana.1">
-        <img src="https://img.shields.io/badge/facebook-%23E9258F.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25>
-    </a>  
+  
 </p>
 
 
