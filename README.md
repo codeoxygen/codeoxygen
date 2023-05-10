@@ -37,31 +37,6 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=codeoxygen&theme=dark&layout=compact)
 
-## What Have I Done?
-
-1. Food Arcadia - Food Services Management System and Customers and Vendors Based Website
-        -- Food Service
-        -- Restaurant Service
-        -- Order Management Service
-        -- Delivery Service
-        -- User Service
-        -- Auth Service
-        -- Pricing Service
-        -- So on...
-2. MyWeddingsLK - Wedding Website Selling Platform
-3. Weddings - Weddings Arrangment and Service Providing Web Application (Frontend and Backend)
-4. Streamer - Message Stream
-5. EconoMyUSA - Economy Website for USA
-6. Yala Features Service
-7. World Economy Index - World Wide Economy Information System
-8. World Economy Index - Frontend
-9. Wedding Webistes - RSVP Websites
-        -- Sarah & Jasmine
-        -- Lucas & Jane
-        -- So on...
-10. So on...
-
-.......
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
