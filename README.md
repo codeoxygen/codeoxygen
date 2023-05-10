@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on Data Science
 - 🌱 Including Data Analysis,M Machine Learning and Deep Learning
-- ⚡ AI Enthusiastic
+- ⚡ AI Enthusias
 
 <div align="center"> </div>
 
