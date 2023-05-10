@@ -26,7 +26,7 @@
 
 <div align="center"> </div>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=lahiruchalana&theme=aura&show_icons=true&count_private=true) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=codeoxygen&theme=aura&show_icons=true&count_private=true) 
 
 **languages and tools:**  
 
