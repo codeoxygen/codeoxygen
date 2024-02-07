@@ -17,6 +17,8 @@
 ![SQL](https://img.shields.io/badge/SQL-A8B9CC?style=flat-square&logo=SQL&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-2CB6EA?style=flat-square&logo=PySpark&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit-learn-3776AB?style=flat-square&logo=scikit-learn&logoColor=white)
+![Gensim](https://img.shields.io/badge/Gensim-EA4E2C?style=flat-square&logo=Gensim&logoColor=white)
+![Spacy](https://img.shields.io/badge/Spacy-3776AB?style=flat-square&logo=Spacy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-EA4E2C?style=flat-square&logo=LangChain&logoColor=white)
 ![Huggingface](https://img.shields.io/badge/huggingface-CA2CEA?style=flat-square&logo=huggingface&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=flat-square&logo=JavaScript&logoColor=white)
@@ -26,8 +28,13 @@
 
 
 
-- 🔭 I’m Interested in Computer vision ,ML,  NLP, LLM , AI and  backend development in python and nodejs
-- 🌱 I'm keep learning on cognitive AI and Large language Modeling
+🔭 As an accomplished AI Engineer specializing in ML, Deep Learning, and LLM, I am deeply immersed in cutting-edge technologies.
+🌱 My recent focus has revolved around the development and deployment of bespoke LLM applications.
+🛠️ Presently, I am spearheading the creation of an LLM application tailored for the detection of computer program spam.
+💼 I am readily available for consultations and freelance opportunities.
+- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at lahiruprabhath099@gmail.com! I'll try to respond as soon as I can.\
 
 <div align="center"> </div>
 
