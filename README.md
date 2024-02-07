@@ -30,7 +30,6 @@
 
 ## 👨🏻‍💻 About Me
 
-
 🔭 &nbsp;As an accomplished AI Engineer specializing in ML, Deep Learning, and LLM, I am deeply immersed in cutting-edge technologies.\
 🌱 &nbsp;My recent focus has revolved around the development and deployment of bespoke LLM applications.\
 🛠️ &nbsp;Presently, I am spearheading the creation of an LLM application tailored for the detection of computer program spam.\
@@ -41,7 +40,7 @@
 
 <div align="center"> </div>
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=codeoxygen&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codeoxygen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeoxygen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
