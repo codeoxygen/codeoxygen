@@ -14,7 +14,9 @@
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-EA4E2C?style=flat-square&logo=Tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-91EA2C?style=flat-square&logo=Pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit-learn-3776AB?style=flat-square&logo=scikit-learn&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=flat-square&logo=JavaScript&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-3776AB?style=flat-square&logo=LangChain&logoColor=white)
+![Huggingface](https://img.shields.io/badge/Huggingface-EA4E2C?style=flat-square&logo=Huggingface&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-EA4E2C?style=flat-square&logo=JavaScript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-A8B9CC?style=flat-square&logo=Rust&logoColor=white)
 
 
