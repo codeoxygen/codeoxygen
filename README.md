@@ -11,6 +11,15 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
+
+
+- 🔭 I’m Interested in Computer vision ,ML,  NLP, LLM , AI and  backend development in python and nodejs
+- 🌱 I'm keep learning on cognitive AI and Large language Modeling
+
+<div align="center"> </div>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=codeoxygen&theme=aura&show_icons=true&count_private=true) 
+
 <p>
     <a href="https://twitter.com/LahiruJayakodi3"> 
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
@@ -24,13 +33,6 @@
   
 </p>
 
-
-- 🔭 I’m Interested in Computer vision ,ML,  NLP, LLM , AI and  backend development in python and nodejs
-- 🌱 I'm keep learning on cognitive AI and Large language Modeling
-
-<div align="center"> </div>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=codeoxygen&theme=aura&show_icons=true&count_private=true) 
 
 **languages and tools:**  
 
