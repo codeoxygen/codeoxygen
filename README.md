@@ -9,7 +9,7 @@
 # 💻 Tech Stack:
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white&height=40)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EA4E2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-EA4E2C?style=flat-square&logo=Tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-A8B9CC?style=flat-square&logo=Keras&logoColor=white)
@@ -40,13 +40,13 @@
 
 <p>
     <a href="https://twitter.com/LahiruJayakodi3"> 
-        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=50>
+        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=40>
     </a> 
     <a href="https://www.linkedin.com/in/lahiru-jayakodi-b912b0217">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=50>
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=40>
     </a> 
     <a href="https://stackoverflow.com/users/13915199/lahiru-prabhath">
-        <img src="https://img.shields.io/badge/stackoverflow-%23E4405F.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=50>
+        <img src="https://img.shields.io/badge/stackoverflow-%23E4405F.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=40>
     </a>
   
 </p>
