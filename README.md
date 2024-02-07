@@ -10,7 +10,7 @@
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Langchain](https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=Langchain&logoColor=white)
+![Langchain](https://img.shields.io/badge/Langchain-F7DF1E?style=flat-square&logo=Langchain&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-3776AB?style=flat-square&logo=PyTorch&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-A8B9CC?style=flat-square&logo=Rust&logoColor=white)
