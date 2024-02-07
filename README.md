@@ -6,7 +6,7 @@
 <h2 align="center">Hi Fellow 👋, I'm codeoxygen!</h2>
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -25,7 +25,7 @@
 ![Rust](https://img.shields.io/badge/Rust-A8B9CC?style=flat-square&logo=Rust&logoColor=white)
 
 
-#👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 About Me
 
 
 🔭 &nbsp;As an accomplished AI Engineer specializing in ML, Deep Learning, and LLM, I am deeply immersed in cutting-edge technologies.\
@@ -38,22 +38,22 @@
 
 <div align="center"> </div>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=codeoxygen&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codeoxygen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeoxygen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# Get in touch with me 👋:
+## Get in touch with me 👋:
 
 <p>
     <a href="https://twitter.com/LahiruJayakodi3"> 
-        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=40>
+        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=35>
     </a> 
     <a href="https://www.linkedin.com/in/lahiru-jayakodi-b912b0217">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=40>
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35>
     </a> 
     <a href="https://stackoverflow.com/users/13915199/lahiru-prabhath">
-        <img src="https://img.shields.io/badge/stackoverflow-%23E4405F.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=40>
+        <img src="https://img.shields.io/badge/stackoverflow-%23E4405F.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=35>
     </a>
   
 </p>
