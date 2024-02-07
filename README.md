@@ -32,9 +32,9 @@
 <div align="center"> </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codeoxygen&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=codeoxygen&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codeoxygen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeoxygen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeoxygen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p>
     <a href="https://twitter.com/LahiruJayakodi3"> 
