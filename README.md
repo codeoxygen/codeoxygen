@@ -28,10 +28,10 @@
 
 
 
-🔭 As an accomplished AI Engineer specializing in ML, Deep Learning, and LLM, I am deeply immersed in cutting-edge technologies.
-🌱 My recent focus has revolved around the development and deployment of bespoke LLM applications.
-🛠️ Presently, I am spearheading the creation of an LLM application tailored for the detection of computer program spam.
-💼 I am readily available for consultations and freelance opportunities.
+🔭 As an accomplished AI Engineer specializing in ML, Deep Learning, and LLM, I am deeply immersed in cutting-edge technologies.\
+🌱 My recent focus has revolved around the development and deployment of bespoke LLM applications.\
+🛠️ Presently, I am spearheading the creation of an LLM application tailored for the detection of computer program spam.\
+💼 I am readily available for consultations and freelance opportunities.\
 - 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at lahiruprabhath099@gmail.com! I'll try to respond as soon as I can.\
