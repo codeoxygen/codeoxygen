@@ -25,7 +25,7 @@
 ![Rust](https://img.shields.io/badge/Rust-A8B9CC?style=flat-square&logo=Rust&logoColor=white)
 
 
-
+#👨🏻‍💻 &nbsp;About Me
 
 
 🔭 &nbsp;As an accomplished AI Engineer specializing in ML, Deep Learning, and LLM, I am deeply immersed in cutting-edge technologies.\
