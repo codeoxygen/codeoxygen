@@ -47,7 +47,8 @@
 
 ![Lahiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeoxygen&show_icons=true&theme=tokyonight&cache_seconds=60)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codeoxygen&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeoxygen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=60)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeoxygen&hide=Jupyter%20Notebook,HTML,CSS,SCSS&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true)
+
 
 
 ## Get in touch with me 👋:
