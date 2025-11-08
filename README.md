@@ -34,21 +34,21 @@
 
 ## 👨🏻‍💻 About Me
 
-🔭 &nbsp;As an accomplished AI Engineer specializing in ML, Deep Learning, and LLM, I am deeply immersed in cutting-edge technologies.\
-🌱 &nbsp;My recent focus has revolved around the development and deployment of bespoke LLM applications.\
-🛠️ &nbsp;Presently, I am spearheading the creation of an LLM application tailored for the detection of computer program spam.\
-💼 &nbsp;I am readily available for consultations and freelance opportunities.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at lahiruprabhath099@gmail.com! I'll try to respond as soon as I can.\
+🔭 &nbsp;I’m an experienced AI & Backend Engineer with 3+ years of expertise building enterprise AI applications across banking, automotive, and healthcare industries.\
+⚙️ &nbsp; Specialised in FastAPI, Node.js, and NestJS, with strong expertise in Deep Learning, and LLMs for production-grade, cloud-native AI deployments.\
+🚀 &nbsp; Currently focused on developing scalable LLM-driven systems that power automation and intelligent decision-making for real-world enterprises.\
+💼 &nbsp; Open to collaborations, consulting, and freelance opportunities in backend and applied AI development.\
+✉️ &nbsp; Reach me at lahiruprabhath099@gmail.com.\
+ — always happy to connect!
 
 <div align="center"> </div>
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=codeoxygen&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=codeoxygen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeoxygen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Lahiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeoxygen&show_icons=true&theme=tokyonight&cache_seconds=60)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codeoxygen&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeoxygen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=60)
+
 
 ## Get in touch with me 👋:
 
