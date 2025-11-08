@@ -13,19 +13,20 @@
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-EA4E2C?style=flat-square&logo=LangChain&logoColor=white)
+![Huggingface](https://img.shields.io/badge/huggingface-CA2CEA?style=flat-square&logo=huggingface&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EA4E2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-EA4E2C?style=flat-square&logo=Tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-A8B9CC?style=flat-square&logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-91EA2C?style=flat-square&logo=Pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-A8B9CC?style=flat-square&logo=SQL&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-2CB6EA?style=flat-square&logo=PySpark&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit-learn-3776AB?style=flat-square&logo=scikit-learn&logoColor=white)
-![Gensim](https://img.shields.io/badge/Gensim-EA4E2C?style=flat-square&logo=Gensim&logoColor=white)
-![Spacy](https://img.shields.io/badge/Spacy-3776AB?style=flat-square&logo=Spacy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-EA4E2C?style=flat-square&logo=LangChain&logoColor=white)
-![Huggingface](https://img.shields.io/badge/huggingface-CA2CEA?style=flat-square&logo=huggingface&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=flat-square&logo=JavaScript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-A8B9CC?style=flat-square&logo=Rust&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+
+
 
 
 ## 👨🏻‍💻 About Me
